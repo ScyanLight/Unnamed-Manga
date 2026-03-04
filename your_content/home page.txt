@@ -27,7 +27,7 @@
 
         <p>guh</p>
 
-
+   </div>
         <!--
         If you want to set some information apart, you can set the class as "infobox"! That will put your content in a
         different block of color, which can be defined in stylesheet.css.
