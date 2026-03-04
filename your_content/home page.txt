@@ -14,11 +14,7 @@
      wider than the right, change the class to "left-column-layout"! -->
 
 <!-- Next, we separate what we want into the left and right columns. -->
-    <div class="left-column">
-        <a href="https://comic-git.gitbook.io/documentation">
-            
-        </a>
-    </div>
+   
 
     <div class="right-column">
         <p>Test lmao</p>
